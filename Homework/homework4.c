@@ -4,7 +4,7 @@
 #include<cstdlib>
 #include<cstring>
 #include<cctype>
-#include<cstring>
+#include<string>
 #include<stack>
 
 using namespace std;
