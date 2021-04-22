@@ -1,7 +1,9 @@
 
 // IMPORTANT : 
-// DID IT WITH A LOT OF HELP OF EMILIO GONZALEZ, HE HELPED ME DOING IT AND ALSO HELPED ME UNDERSTANDING IT
+// DID IT WITH A LOT OF HELP OF EMILIO GONZALEZ, HE HELPED ME DOING IT AND ALSO HELPED ME UNDERSTANDING IT 
 
+
+//AL COMPILAR TE PREGUNTARÁ LA FILA Y LA COLUMNA PARA PODER DESCUBRIR EL ESPACIO SELECCIONADO
 
 #include <assert.h>  
 #include <ctype.h>  
@@ -217,12 +219,12 @@ int main() {
     scanf("%d", &columna);
     int status = abrirCasilla(fila, columna, tablero);
     if (noHayCasillasSinAbrir(tablero)) {
-      printf("You've won!'\n");
+      printf("GOOD JOB, YOU WON!'\n");
       deberiaMostrarMinas = 1;
     } else if (status == ERROR_ESPACIO_YA_DESCUBIERTO) {
-      printf("You have already opened this box\n");
+      printf("The box is already open\n");
     } else if (status == ERROR_MINA_ENCONTRADA) {
-      printf("\n GAME OVER\n");
+      printf("\n BYE BYE!\n");
       deberiaMostrarMinas = 1;
     }
   }
