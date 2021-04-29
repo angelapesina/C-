@@ -97,9 +97,9 @@ int main(int argc, char const *argv[])
     while ((s = getchar()) != EOF)
     {
         
-        printf("**MENU**\n");
-        printf("Selecciona la opción (numero) que desses realizar: \n");
-        printf("\t 1. Añadir registro. \n");
+        printf("\n\n**MENU**\n");
+        printf("Selecciona la opcion (numero) que desses realizar: \n");
+        printf("\t 1. Agregar registro. \n");
         printf("\t 2. Eliminar registro. \n");
         printf("\t 3. Vista de los registros.\n\n");
         fflush(stdin);
@@ -121,7 +121,7 @@ int main(int argc, char const *argv[])
             
             
          default:
-            printf("!Opcion no valida");
+            printf("Error, no esxiste esa opcion\n\n");
             break;
         }
         if (agre != 0 || del != 0 || order != 0)
@@ -153,13 +153,9 @@ int main(int argc, char const *argv[])
                 fflush(stdin);
                 scanf("%s", &user[0]);
                 struct nodoCadena *apuntadorUser = buscarUsername(raiz, user);
-                if (apuntadorUser != NULL)
-                {
-                    
+                if (apuntadorUser != NULL)  {
                     
                         printf("\nELIMINADO CORRECTAMENTE \n", user);
-                    
-                    
                 }
                 else
                 {
