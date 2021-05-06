@@ -1,4 +1,4 @@
-/* Trabajo realizado con ANGELA GABRIELA PESINA DE LOS SANTOS utilizando como base el trabajo de ÁNGEL RAÚL CHAVEZ CARRILLO.
+/* Trabajo realizado con EMILIO GONZALEZ  utilizando como base el trabajo de ÁNGEL RAÚL CHAVEZ CARRILLO.
 ÁNGEL RAÚL nos ayudó hacer nuestra tarea y se aseguró de que entendieramos. 
 
 
@@ -7,6 +7,7 @@ PARA COMPILAR ---->
 2. CREAR OTROS 5 ARCHIVOS CON LOS SIGUIENTES NOMBRES: 
    sistema.txt, entradas.txt, horario.txt, reporte.txt, salidas.txt
    ESTOS ARCHIVOS ESTARÁN EN BLANCO, ES DECIR, NO TENDRÁN CÓDIGO. 
+3. COMPILAR Y EJECUTAR EL CÓDIGO
 
 AL COMPILAR PODRÁS REGISTAR PERSONAS, RESGISTRAS SUS SALIDAS, SUS ENTRADAS, ETC., 
 LUEGO, CUANDO DEJES DE EJECUTAR EL PROGRAMA PODRÁS VER TODOS LOS MOVIMIENTOS QUE HICISTE 
