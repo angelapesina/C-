@@ -2,7 +2,7 @@
 
 ## Project summary:
 
-This project is a system of a restaurant, where you can buy what is on the menu and then generate a ticket, you will choose if you want to eat on the restaurant or pick delivery and then the program will help the employee to process the payment.
+This project is a system of a restaurant, where you can buy what is on the menu and then generate a ticket, you will choose if you want to eat on the restaurant or pick house delivery and then the program will help the employee to process the payment.
 
 ------------
 ## Structure:
