@@ -21,9 +21,10 @@ This option will start with a menu where you can choose which operation you woul
 - lunch menu.
 - dinner menu.
 - drinks menu.
-- generate ticket.
 - home delivery.
-- payment.
+- generate ticket.
+
+
 
 
 *1. The food menus:* 
@@ -31,18 +32,17 @@ This option will start with a menu where you can choose which operation you woul
 
 *2. The drinks:*
  The **drinks menu** will have all the different options the customers will have to drink, such as water, juices, milkshakes, etc. and  you can add  whichever they want to their ticket. 
+ 
+ *3. Home delivery:*
+ In this part of the program the client is going to choose if they want to eat in the restaurant or they want **home delivery**, if they choose the second option the program will ask for their address and contact information. 
 
-
-*3. Generate ticket:*
+*4. Generate ticket:*
  In this section you can **generate the ticket** for everything that the customers are going to buy.
 
 
-*4. Home delivery:*
- In this part of the program the client is going to choose if they want to eat in the restaurant or they want **home delivery**, if they choose the second option the program will ask for their address and contact information.  
 
 
-*5.Payment:*
- Finally, in this part the program will help the employee to calculate the final payment and how much mony is going to return to the customer. 
+
 
 ------------
 ### Employee options:
