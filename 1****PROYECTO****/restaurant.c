@@ -5,7 +5,6 @@ RESTAURANT MENU */
 
 //library
 #include <stdio.h>
-#include <windows.h>
 #include <stdlib.h>
 #include "res.h"
 
@@ -14,7 +13,7 @@ int main (){
 		int op, rep;
 		
 		do { //open do 
-		system("cls"); //clear console 
+		 
 		
 	printf("\t\t***WELCOME TO FIME-STAURANT***\n");
 	printf("-----------------------------------------------\n");
@@ -55,7 +54,7 @@ void custo_order(){
 	int op, repetir;
 	
 	do { //open do 
-	system("cls"); //clear console 
+
 	
 	printf("\t\t***WELCOME TO THE CUSTOMER ORDER SECTION***\n ");
 	printf("-----------------------------------------------\n");
@@ -430,7 +429,7 @@ void em_options(){
 	int op, repetir;
 	
 	do { //open do 
-	system("cls"); //clear console 
+ 
 	
 	printf("\t\t***WELCOME TO THE EMPLOYEE OPTIONS***\n ");
 	printf("-----------------------------------------------\n");
