@@ -1,5 +1,12 @@
 # PIA: Restaurant 
 
+
+------------
+
+# VIDEO: [RESTAURANT MENU](https://youtu.be/WDsnr6XoZsM "RESTAURANT MENU")
+
+
+
 ## Project summary:
 
 This project is a system of a restaurant, where you can buy what is on the menu and then generate a ticket, you will choose if you want to eat on the restaurant or pick house delivery and then the program will help the employee to process the payment.
@@ -53,7 +60,7 @@ This second part will be simpler than the previous one, in this section the empl
 - review employee discounts.
 
 *1. Check my salary:*
- The employee can check their month **salary**, the program will ask them how many days they work per week and how many hours, then the program will calculate the slaary depending on which area they are working in the restaurant.
+ The employee can check their week **salary**, the program will ask them how many hours they work per week, then the program will calculate the salary depending on which area they are working in the restaurant.
 
 *2. Review employee discounts:*
  They will obtain different **descounts** depending on how much time they have been working in the restaurant. 
