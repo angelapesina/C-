@@ -59,5 +59,10 @@ This second part will be simpler than the previous one, in this section the empl
  They will obtain different **descounts** depending on how much time they have been working in the restaurant. 
 
 ------------
+### Bibliography:
+- [http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf](http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf "http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf")
+- https://www.youtube.com/watch?v=Dd6TmDRxbUU&list=PLuaRu05D7vP76AoXlDH3foe09n6CkaRVI&index=23
+- [https://users.ece.utexas.edu/~adnan/c-refcard.pdf](https://users.ece.utexas.edu/~adnan/c-refcard.pdf "https://users.ece.utexas.edu/~adnan/c-refcard.pdf")
 
+------------
 > **Angela Gabriela Pesina de los Santos - 1947576**
