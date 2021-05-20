@@ -66,6 +66,14 @@ This second part will be simpler than the previous one, in this section the empl
  They will obtain different **descounts** depending on how much time they have been working in the restaurant. 
 
 ------------
+##### Self appraisal
+1: **complexity**   ***= 2***
+2: **functionality  = *3***
+3: **code** = ***3***
+4: **storage**= ***3*** 
+5: **documentation** = ***3 ***
+###### CF = 14/15
+------------
 ### Bibliography:
 - [http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf](http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf "http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf")
 - https://www.youtube.com/watch?v=Dd6TmDRxbUU&list=PLuaRu05D7vP76AoXlDH3foe09n6CkaRVI&index=23
