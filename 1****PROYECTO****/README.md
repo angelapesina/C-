@@ -69,17 +69,13 @@ This second part will be simpler than the previous one, in this section the empl
 ##### Self appraisal
 1: **complexity**   ***= 2***
 
-
-2: **functionality  = *3**
-
+2: **functionality  = *3***
 
 3: **code** = ***3***
 
-
 4: **storage**= ***3*** 
 
-
-5: **documentation** = ***3 ***
+5: **documentation** = ***3***
 
 ###### CF = 14/15
 ------------
