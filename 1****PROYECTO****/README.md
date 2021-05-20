@@ -73,11 +73,11 @@ This second part will be simpler than the previous one, in this section the empl
 
 3: **code** I used a lot of comments so it is clear for the readers= ***3***
 
-4: **storage** When you close your console it starts again = ***2*** 
+4: **storage**  = ***3*** 
 
 5: **documentation** The document is clear = ***3***
 
-###### CF = 13/15
+###### CF = 14/15
 ------------
 ### Bibliography:
 - [http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf](http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf "http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf")
