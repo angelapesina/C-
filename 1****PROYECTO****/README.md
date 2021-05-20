@@ -67,15 +67,15 @@ This second part will be simpler than the previous one, in this section the empl
 
 ------------
 ##### Self appraisal:
-1: **complexity**   ***= 2***
+1: **complexity** It is simple but I used some complex functions  ***= 2***
 
-2: **functionality  = *3***
+2: **functionality It is working in the correct way = *3***
 
-3: **code** = ***3***
+3: **code** I used a lot of comments so it is clear for the readers= ***3***
 
-4: **storage**= ***2*** 
+4: **storage** When you close your console it starts again = ***2*** 
 
-5: **documentation** = ***3***
+5: **documentation** The document is clear = ***3***
 
 ###### CF = 13/15
 ------------
