@@ -73,11 +73,11 @@ This second part will be simpler than the previous one, in this section the empl
 
 3: **code** = ***3***
 
-4: **storage**= ***3*** 
+4: **storage**= ***2*** 
 
 5: **documentation** = ***3***
 
-###### CF = 14/15
+###### CF = 13/15
 ------------
 ### Bibliography:
 - [http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf](http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf "http://www.skiesanduniverses.org/resources/The_C_Programming_Language.pdf")
