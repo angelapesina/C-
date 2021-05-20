@@ -66,7 +66,7 @@ This second part will be simpler than the previous one, in this section the empl
  They will obtain different **descounts** depending on how much time they have been working in the restaurant. 
 
 ------------
-##### Self appraisal
+##### Self appraisal:
 1: **complexity**   ***= 2***
 
 2: **functionality  = *3***
