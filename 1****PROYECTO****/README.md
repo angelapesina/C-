@@ -23,6 +23,7 @@ This option will start with a menu where you can choose which operation you woul
 - drinks menu.
 - home delivery.
 - generate ticket.
+- give your opinion about the restaurant.
 
 
 
@@ -39,7 +40,8 @@ This option will start with a menu where you can choose which operation you woul
 *4. Generate ticket:*
  In this section you can **generate the ticket** for everything that the customers are going to buy.
 
-
+*5. Give your oinion about the restaurant:*
+The customer will write a review about the restaurant completely anonymous to help improve the service, a .txt file will be generated with the opinion given above.
 
 
 
@@ -55,22 +57,6 @@ This second part will be simpler than the previous one, in this section the empl
 
 *2. Review employee discounts:*
  They will obtain different **descounts** depending on how much time they have been working in the restaurant. 
-
-------------
-> *I may add more things while I'm doing the code but this is the base of my program.*
-
-------------
-
-
-
-### +Ideas 
-Some other ideas that I have but I am not pretty sure if I am going to implement in my project:
-- make a .txt file for purchase reports
-- make a .txt file for employees
-- make a .txt file for clients (with their personal information)
-
-------------
-
 
 ------------
 
